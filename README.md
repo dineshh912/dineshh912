@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing.vercel.app/api/spotify-playing" alt="dinesh Spotify Playing" width="350" />]
-(https://open.spotify.com/user/dinesh.hicet)
+[![Spotify](https://now-playing-sepia.vercel.app/api/spotify)](https://open.spotify.com/user/dinesh.hicet)
