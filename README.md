@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing.vercel.app/api/spotify-playing" alt="dinesh Spotify Playing" width="350" />]
+(https://open.spotify.com/user/dinesh.hicet)
