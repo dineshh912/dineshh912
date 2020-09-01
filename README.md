@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋 , I'm Dinesh</h1>
 <h3 align="center">A passionate Fullstack developer / Data scientist</h3>
