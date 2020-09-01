@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<h1 align="center">Hi 👋 , I'm Dinesh</h1>
+<h3 align="center">A passionate Fullstack developer / Data scientist</h3>
+
+
+- 🔭 I’m currently working on **IoT Botnet Detection**
+
+- 👨‍💻 All of my projects are available at [https://github.com/dineshh912](https://github.com/dineshh912)
+
+- 💬 Ask me about **Python, Data science, Deep learning, Web applications**
+
 <!--
 **dineshh912/dineshh912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
