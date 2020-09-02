@@ -5,6 +5,10 @@
 
 - 🔭 I’m currently working on **IoT Botnet Detection**
 
+- 🌱 I’m currently learning **AWS, Pandas, Tensorflow, scipy**
+
+- 👯 I’m looking to collaborate on **any interesting project on IoT, Datascience**
+
 - 👨‍💻 All of my projects are available at [https://github.com/dineshh912](https://github.com/dineshh912)
 
 - 💬 Ask me about **Python, Data science, Deep learning, Web applications**
