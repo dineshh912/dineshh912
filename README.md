@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Fullstack Python developer / Data scientist</h3>
 
 
-- 🔭 I’m currently working on **IoT Botnet Detection**
+- 🔭 I’m currently working on **Legal Text data summarization**
 
 - 🌱 I’m currently learning **AWS, Pandas, Tensorflow, scipy**
 
