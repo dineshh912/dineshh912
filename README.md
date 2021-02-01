@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋 , I'm Dinesh</h1>
-<h3 align="center">A passionate Fullstack Python developer / Data scientist</h3>
+<h3 align="center">A passionate Fullstack Python developer / NLP Engineer </h3>
 
 
 - 🔭 I’m currently working on **Support tickets classification & sentiment analysis**
@@ -10,6 +10,8 @@
 - 👯 I’m looking to collaborate on **any interesting project on IoT, Datascience**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dineshh912](https://github.com/dineshh912)
+
+- 💻 You can read my blog articled in [https://dinesh912.medium.com/](https://dinesh912.medium.com/)
 
 - 💬 Ask me about **Python, Data science, Deep learning, Web applications**
 
