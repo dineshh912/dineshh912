@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python, Data science, Deep learning, Web applications**
 
-
+<!--
 ### Spotify Playing 🎧
 
-[![Spotify](https://now-playing-sepia.vercel.app/api/spotify)](https://open.spotify.com/user/dinesh.hicet)
+[![Spotify](https://now-playing-sepia.vercel.app/api/spotify)](https://open.spotify.com/user/dinesh.hicet)-->
