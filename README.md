@@ -3,9 +3,9 @@
 <h3 align="center">A passionate Fullstack Python developer / NLP Engineer </h3>
 
 
-- 🔭 I’m currently working on **Support tickets classification & sentiment analysis**
+- 🔭 I’m currently working on **Smart Building project**
 
-- 🌱 I’m currently learning **AWS, Pandas, Tensorflow, scipy**
+- 🌱 I’m currently learning **Node JS, AWS, Expressm mongoDB**
 
 - 👯 I’m looking to collaborate on **any interesting project on IoT, Datascience**
 
