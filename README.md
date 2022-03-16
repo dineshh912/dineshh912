@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋 , I'm Dinesh</h1>
-<h3 align="center">A passionate Fullstack Python developer / NLP Engineer </h3>
+<h3 align="center">A passionate Backend Python developer / NLP Engineer </h3>
 
 
 - 🔭 I’m currently working on **Smart Building project**
 
-- 🌱 I’m currently learning **Node JS, AWS, Expressm mongoDB**
+- 🌱 I’m currently learning **AWS, NoSQL, Docker, Kubernetes**
 
-- 👯 I’m looking to collaborate on **any interesting project on IoT, Datascience**
+- 👯 I’m looking to collaborate on **any interesting project on IoT, smart building, digital twin and Datascience**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dineshh912](https://github.com/dineshh912)
 
