@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋 , I'm Dinesh</h1>
-<h3 align="center">A passionate Backend Python developer / NLP Engineer </h3>
+<h3 align="center">A passionate Python developer</h3>
 
 
 - 🔭 I’m currently working on **Smart Building project**
